@@ -1,0 +1,12 @@
+.btn_index{
+    width: 300px;
+    padding: 50px;
+    margin: 10px;
+}
+.form_login{
+    font-family: "Comic Sans MS";
+}
+
+.esconde{
+    display: none;
+}
